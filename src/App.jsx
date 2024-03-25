@@ -1,4 +1,4 @@
-import {puppyList} from './data.js'
+import puppyList from './data.js'
 import { useState } from 'react'
 
 function App() {

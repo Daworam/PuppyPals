@@ -1,4 +1,4 @@
-export const puppyList = [
+const puppyList = [
   {
     id: 1,
     name: "Sir Waggington",
@@ -66,3 +66,5 @@ export const puppyList = [
     tricks: [],
   },
 ];
+
+export default puppyList
